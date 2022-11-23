@@ -1,4 +1,4 @@
-# java-assignment-div-B--3-
+# java-assignment 3-div-B
 Assessment 3
 Inheritance and Polymorphism
 Warranty Program
