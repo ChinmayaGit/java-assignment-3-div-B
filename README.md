@@ -19,7 +19,9 @@ In Command Prompt
   
   java testMain
   
-Screenshots
+Screenshots:
+
+https://github.com/ChinmayaGit/java-assignment-div-B--3-/blob/master/screenShot/1.jpg?raw=true
 
 
 TODO: Project Finished
