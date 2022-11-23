@@ -18,12 +18,12 @@
     git clone https://github.com/ChinmayaGit/java-assignment-3-div-B.git
     cd java-assignment-div-b-3
     
-##In Command Prompt
+## In Command Prompt
 
  ### javac testMain.java
  ### java testMain
   
-Screenshots:
+## Screenshots:
 
 Battery Powered Equipment's warranty:
 
