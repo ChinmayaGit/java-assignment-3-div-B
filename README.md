@@ -20,8 +20,7 @@ In Command Prompt
   java testMain
   
 Screenshots:
-![ScreenShot]([https://{url}](https://github.com/ChinmayaGit/java-assignment-div-B--3-/blob/master/screenShot/1.jpg?raw=true))
-
+![ScreenShot]([https://raw.github.com/{username}/{repository}/{branch}](https://github.com/ChinmayaGit/java-assignment-div-B--3-/blob/master/screenShot/1.jpg)/)
 
 
 TODO: Project Finished
