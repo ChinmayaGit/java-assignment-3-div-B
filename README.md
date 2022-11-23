@@ -11,7 +11,7 @@ How to Run
 Requirements JAVA 8
 How to run
 
-    git clone https://github.com/ChinmayaGit/java-assignment-div-B--3-
+    git clone https://github.com/ChinmayaGit/java-assignment 3-div-B
     cd java-assignment-div-b-3
 In Command Prompt
 
