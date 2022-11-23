@@ -16,6 +16,7 @@ How to run
 In Command Prompt
 
   javac testMain.java
+  
   java testMain
   
 Screenshots
