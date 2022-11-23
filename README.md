@@ -1,27 +1,27 @@
 # java-assignment 3-div-B
 
-Assessment 3:
+## Assessment 3:
 
-Inheritance and Polymorphism
-Warranty Program
+### Inheritance and Polymorphism
+### Warranty Program
 
-About me:
+## About me:
 
-Archit Madankar
-Roll No. - 63
-PRN - 1132220942
-How to Run
-Requirements JAVA 8
+### Archit Madankar
+### Roll No. - 63
+### PRN - 1132220942
+### How to Run
+### Requirements JAVA 8
 
-How to run:
+## How to run:
 
     git clone https://github.com/ChinmayaGit/java-assignment-3-div-B.git
     cd java-assignment-div-b-3
     
-In Command Prompt
+##In Command Prompt
 
-  javac testMain.java
-  java testMain
+ ### javac testMain.java
+ ### java testMain
   
 Screenshots:
 
