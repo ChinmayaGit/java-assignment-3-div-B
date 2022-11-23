@@ -20,8 +20,10 @@ In Command Prompt
   java testMain
   
 Screenshots:
+Battery Powered Equipment's warranty:
+![Battery Powered Equipment's warranty](https://raw.githubusercontent.com/ChinmayaGit/java-assignment-div-B--3-/master/screenShot/1.jpg "Battery Powered Equipment's warranty")
 
-![welcomeMessage](https://raw.githubusercontent.com/ChinmayaGit/java-assignment-div-B--3-/master/screenShot/1.jpg "Welcome Message")
-
+Standard Equipment's Warranty:
+![Standard Equipment's Warranty](https://raw.githubusercontent.com/ChinmayaGit/java-assignment-div-B--3-/master/screenShot/1.jpg "Standard Equipment's Warranty")
 
 TODO: Project Finished
